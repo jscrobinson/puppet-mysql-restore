@@ -1,3 +1,5 @@
 Puppet MySql Restore
 =================
-Restores mysql databases from mysql database dump files
+This module restores databases from mysql dump files
+Description
+-----------------
